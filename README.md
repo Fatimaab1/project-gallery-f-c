@@ -1,8 +1,10 @@
 # project-gallery-f-c
 
-**PLANNING:**
-
 In this project, I created a gallery to showcase the projects that I have been working on. The gallery presents my projects in an organised and visually appealing way. 
+
+&nbsp;
+
+**PLANNING:**
 
 When planning this project, I used the following information:
 
