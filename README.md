@@ -34,3 +34,4 @@ To develop this project, I utilised the project plan I had created as a guide. T
 **DEBUGGING:**
 
 - For this project I encountered a javascript error. while implementing the 'Read More' button functionality, the code only worked on the first card. To troubleshoot this issue, I used developer tools and Google to identify the root cause. Despite my efforts, I was unable to resolve the error, so I turned to W3Schools to explore alternative approaches. Through a process of trial and error, I eventually managed to get the code working by experimenting with different methods and playing with the code until it worked as intended.
+
